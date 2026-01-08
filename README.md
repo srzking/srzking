@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Renato / King</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerking-s&label=Profile%20views&color=0e75b6&style=flat" alt="developerking-s" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://avatars.githubusercontent.com/u/189033452?v=4&theme=" alt="developerking-s" /></a> </p>
-
 - 🔭Estou trabalhando... [Sam Bot](https://sambot.fun)
 - 👯 Estou procurando oportunidades de colaboração em... [Kbio and Titnel](https://developerking.vercel.app)
 - 🌱Atualmente estou aprendendo... **Vue.js e Vite**
