@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Renato / King</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerking-s&label=Profile%20views&color=0e75b6&style=flat" alt="developerking-s" /> </p>
 
-- 🔭Estou trabalhando... [Sam Bot](https://sambot.fun)
-- 👯 Estou procurando oportunidades de colaboração em... [Kbio and Titnel](https://developerking.vercel.app)
+- 🔭Estou trabalhando... [Sam Bot](https://sambot.com.br)
+- 👯 Estou procurando oportunidades de colaboração em... [Kbio and Titnel](https://srzking.vercel.app)
 - 🌱Atualmente estou aprendendo... **Vue.js e Vite**
 
 
@@ -45,12 +45,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/developerking-s">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=developerking-s&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=developerking-s&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=developerking-s&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=developerking-s&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developerking-s&theme=2077" height="180em" />
+<a href="https://github.com/srzking">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=srzking-s&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srzking&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srzking&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srzking&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srzking&theme=2077" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=developerking-s&theme=default"/>
